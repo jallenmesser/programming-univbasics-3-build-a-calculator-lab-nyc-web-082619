@@ -4,12 +4,12 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  subt = num2 - num1
+  subt = num1 - num2
   subt 
 end
 
 def division(num1, num2)
-  divs = num2 / num1
+  divs = num1 / num2
   divs
 end
 
